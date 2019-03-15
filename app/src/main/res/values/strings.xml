@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Layout Ui</string>
+    <string name="wanita">Wanita</string>
+    <string name="pria">Pria</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="kosongkan">Kosongkan</string>
+    <string name="nama">Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="asal_negara">Asal Negara</string>
+    <string name="bahasa_indonesia">bahasa_indonesia</string>
+    <string name="inggris">inggris</string>
+    <string name="mandarin">mandarin</string>
+    <string name="arab">arab</string>
+    <string name="sunda">sunda</string>
+    <string name="jawa">jawa</string>
+    <string-array name="asalnegara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>India</item>
+        <item>Arab</item>
+        <item>Cina</item>
+        <item>Jepang</item>
+    </string-array>
+</resources>
